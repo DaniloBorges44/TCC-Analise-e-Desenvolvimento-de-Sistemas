@@ -1,3 +1,5 @@
-﻿# PANORAMA DO CURSO SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS DO IFTO - CAMPUS ARAGUAÍNA: Uma Exploração de Dados do SUAP
+﻿# TCC - Análise e Desenvolvimento de Sistemas
  
-Este repositório tem como objetivo armazenar e disponibilizar o código-fonte utilizado na obtenção e demonstração dos resultados alcançados durante o desenvolvimento do Trabalho de Conclusão de Curso (TCC) do curso de Tecnólogo em Análise de Sistemas.
+Repositório desenvolvido para armazenar o código-fonte utilizado no Trabalho de Conclusão de Curso (TCC) do curso de Análise e Desenvolvimento de Sistemas.
+
+O projeto, intitulado “Panorama do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFTO - Campus Araguaína: Uma Exploração de Dados do SUAP”, tem como objetivo analisar dados extraídos do sistema SUAP para gerar um panorama dos discentes do curso.
